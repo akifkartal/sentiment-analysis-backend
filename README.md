@@ -6,4 +6,4 @@
 
 ### Usage Area
 
-- This API was used in this [project](https://github.com/akifkartal03/gtu-accommodation-finder).
+- This API was used in this [project](https://github.com/akifkartal/gtu-accommodation-finder).
